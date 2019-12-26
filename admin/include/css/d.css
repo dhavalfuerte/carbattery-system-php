@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+input[type=submit],input[type=reset]
+{
+	height:30px;
+	width:75px;
+}
+
+input[type=text],input[type=password],input[type=email],select
+{
+	height:30px;
+	width:200px;
+}
+ textarea
+ {
+ 	height:70px;
+	width:220px;
+ }
+ .style3 
+ {
+ 	font-style:italic;
+	font-size: 20px;
+}
+input[name=submit]
+{
+	height:30px;
+	width:100px;
+}
